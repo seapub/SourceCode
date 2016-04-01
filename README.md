@@ -1,7 +1,7 @@
 # SourceCode
 
 Java   
-ref: http://horstmann.com   
+ref: http://horstmann.com/corejava.html   
 
 
 
